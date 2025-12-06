@@ -78,14 +78,6 @@
     &nbsp;
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-gadad&layout=compact&theme=dark&hide_border=true" />
   </p>
-
-  <p>
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-gadad&theme=dark&hide_border=true" />
-  </p>
-
-  <p>
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=amogh-gadad&theme=dark&row=1&margin-w=15" />
-  </p>
 </div>
 
 <hr />
