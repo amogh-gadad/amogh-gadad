@@ -39,12 +39,13 @@
     <img alt="VSCode" src="./assets/vscode.svg" width="40"/>
   </p>
 
-  <p style="margin-top:8px">
-    <span style="display:inline-block;background:#222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">Embedded C</span>
-    <span style="display:inline-block;background:#222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">Python</span>
-    <span style="display:inline-block;background:#222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">YOLO / OpenCV</span>
-    <span style="display:inline-block;background:#222;color:#e6eef6;padding:6px 10px;border-radius:6px">Linux</span>
-  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 </td>
 
