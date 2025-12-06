@@ -26,12 +26,10 @@
     <img alt="Python" src="./assets/python.svg" width="40" />&nbsp;
     <img alt="C" src="./assets/c.svg" width="40" />&nbsp;
     <img alt="C++" src="./assets/cpp.svg" width="40" />&nbsp;
-    <img alt="JavaScript" src="./assets/js.svg" width="40" />&nbsp;
     <img alt="OpenCV" src="./assets/opencv.svg" width="40" />&nbsp;
     <img alt="Raspberry Pi" src="./assets/raspberrypi.svg" width="40" />&nbsp;
     <img alt="TensorFlow" src="./assets/tensorflow.svg" width="40" />&nbsp;
     <img alt="YOLO" src="./assets/yolo.svg" width="40" />&nbsp;
-    <img alt="SQLite" src="./assets/sqlite.svg" width="40" />&nbsp;
     <img alt="Git" src="./assets/git.svg" width="40" />&nbsp;
     <img alt="VSCode" src="./assets/vscode.svg" width="40" />
   </p>
@@ -59,7 +57,7 @@
 
 <!-- RIGHT COLUMN: Hero image -->
 <td width="40%" valign="top" style="text-align:center; padding-left:20px">
-  <img src="./assets/hero-devdesk.png" alt="dev desk" style="max-width:100%; border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.5)" />
+  <img src="./assets/hero-devdesk.gif" alt="dev desk" style="max-width:100%; border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.5)" />
 </td>
 
 </tr> 
