@@ -58,7 +58,7 @@
 </table> 
 <hr /> 
 <!-- ========================= --> <!-- CENTERED PROJECTS SECTION --> <!-- ========================= --> 
-<div align="center"> 
+<div align="left"> 
   <h2>
     🧰 Projects
   </h2> 
@@ -68,13 +68,18 @@
       A Raspberry Pi Pico–based early warning system using accelerometer sensing, wavelet-based P/S wave detection,
       and a complete alert chain (LCD → buzzer cancel window → SMS with GPS → emergency auto-dial).
     </li>
-
-  <li>
-    <strong>Self-Driving Car (Raspberry Pi)</strong> — Lane detection + YOLO object detection + ultrasonic avoidance.
-  </li> 
     <li>
-      <strong>Automotive Cybersecurity</strong> — Securing CAN/Socket comms and threat modelling.
-    </li> 
+      <strong>I-CARE — Intelligent Accident Detection & Emergency Response System</strong><br/>
+      Detects collisions using MPU6050 + GPS + GSM, triggers a buzzer cancel window, and automatically sends emergency messages if unacknowledged.
+    </li>
+  <li>
+      <strong>Self-Driving Car (Raspberry Pi)</strong><br/>
+      Lane detection + YOLO object detection with ultrasonic obstacle avoidance for autonomous navigation.
+    </li>
+    <li>
+      <strong>Automotive Cybersecurity</strong><br/>
+      Securing CAN/Socket communication, threat modelling, and intrusion-resilient embedded architecture.
+    </li>
   </ol>
 </div> 
 <hr />
