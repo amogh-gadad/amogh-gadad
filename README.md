@@ -95,11 +95,11 @@
 
 <div align="center">
   <!-- Social buttons -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/amogh-gadad" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL" style="text-decoration:none">
+  <a href="mailto:amoghgadad02@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail" alt="Email" />
   </a>
 </div>
