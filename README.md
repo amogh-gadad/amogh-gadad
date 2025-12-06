@@ -1,9 +1,9 @@
-<!-- Put this file in a repo named exactly your GitHub username -->
-<!-- Replace all PLACEHOLDERS (YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL, PROJECT_REPO names, and image paths) -->
+<!-- Put this file in a repo named exactly your GitHub username (amogh-gadad) -->
+<!-- Images/icons referenced here should be stored in ./assets/ (python.svg, c.svg, cpp.svg, js.svg, opencv.svg, raspberrypi.svg, tensorflow.svg, yolo.svg, sqlite.svg, git.svg, vscode.svg, hero-devdesk.png) -->
 
 <div align="center">
-  <h1 style="margin-bottom:0.1rem">Hey there 👋 , I'm Amogh Gadad</h1>
-  <p style="margin-top:0.2rem; font-weight:600; color:var(--color-darkgray)">Embedded & Automotive Software Engineer | Cybersecurity | Robotics & Edge AI</p>
+  <h1 style="margin-bottom:0.1rem">Hey there 👋, I'm Amogh Gadad</h1>
+  <p style="margin-top:0.2rem; font-weight:600; color:#9AA4B2">Embedded & Automotive Software Engineer | Cybersecurity | Robotics & Edge AI</p>
 </div>
 
 <hr />
@@ -15,11 +15,11 @@
       <h3>Robotics | Embedded Systems | Automotive</h3>
 
       <ul>
-        <li>🚀 I build Raspberry Pi-based autonomous systems (lane + object detection, ultrasonic obstacle avoidance).</li>
+        <li>🚀 I build Raspberry Pi–based autonomous systems (lane + object detection, ultrasonic obstacle avoidance).</li>
         <li>🔐 Working on Automotive Cybersecurity & secure comms for vehicle networks.</li>
         <li>🤖 Developing a Real-Time Deepfake Voice & Face Cloner (research + robotics integration).</li>
-        <li>📂 All projects → <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">My GitHub Repos</a></li>
-        <li>✉️ Reach me: <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></li>
+        <li>📂 All projects → <a href="https://github.com/amogh-gadad?tab=repositories">My GitHub Repos</a></li>
+        <li>✉️ Reach me: <a href="https://www.linkedin.com/in/amogh-gadad">LinkedIn</a></li>
         <li>☕ Fun fact: I turn coffee into clean, modular code.</li>
       </ul>
 
@@ -29,13 +29,13 @@
 
       <!-- Store these icon PNGs/SVGs in /assets or /images folder of this repo and reference them relatively -->
       <p>
-        <img alt="C" src="./assets/python.svg" width="40" />&nbsp;
+        <img alt="Python" src="./assets/python.svg" width="40" />&nbsp;
         <img alt="C" src="./assets/c.svg" width="40" />&nbsp;
         <img alt="C++" src="./assets/cpp.svg" width="40" />&nbsp;
-        <img alt="JS" src="./assets/js.svg" width="40" />&nbsp;
-        <img alt="React" src="./assets/opencv.svg" width="40" />&nbsp;
-        <img alt="Node" src="./assets/raspberrypi.svg" width="40" />&nbsp;
-        <img alt="TF" src="./assets/tensorflow.svg" width="40" />&nbsp;
+        <img alt="JavaScript" src="./assets/js.svg" width="40" />&nbsp;
+        <img alt="OpenCV" src="./assets/opencv.svg" width="40" />&nbsp;
+        <img alt="Raspberry Pi" src="./assets/raspberrypi.svg" width="40" />&nbsp;
+        <img alt="TensorFlow" src="./assets/tensorflow.svg" width="40" />&nbsp;
         <img alt="YOLO" src="./assets/yolo.svg" width="40" />&nbsp;
         <img alt="SQLite" src="./assets/sqlite.svg" width="40" />&nbsp;
         <img alt="Git" src="./assets/git.svg" width="40" />&nbsp;
@@ -43,10 +43,10 @@
       </p>
 
       <p style="margin-top:8px">
-        <span style="display:inline-block;background:#2b2b2b;padding:6px 10px;border-radius:6px;margin-right:6px">Embedded C</span>
-        <span style="display:inline-block;background:#2b2b2b;padding:6px 10px;border-radius:6px;margin-right:6px">Python</span>
-        <span style="display:inline-block;background:#2b2b2b;padding:6px 10px;border-radius:6px;margin-right:6px">YOLO / OpenCV</span>
-        <span style="display:inline-block;background:#2b2b2b;padding:6px 10px;border-radius:6px">Linux</span>
+        <span style="display:inline-block;background:#222222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">Embedded C</span>
+        <span style="display:inline-block;background:#222222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">Python</span>
+        <span style="display:inline-block;background:#222222;color:#e6eef6;padding:6px 10px;border-radius:6px;margin-right:6px">YOLO / OpenCV</span>
+        <span style="display:inline-block;background:#222222;color:#e6eef6;padding:6px 10px;border-radius:6px">Linux</span>
       </p>
 
       <hr />
@@ -60,13 +60,11 @@
 
       <hr />
 
-      <!-- small note about placing badges -->
       <p style="font-size:0.95rem;color:#bfc6d0">Tip: Pin the repos above using <em>Customize your pins</em> on your GitHub profile so they show in the pinned section.</p>
     </td>
 
     <!-- RIGHT COLUMN: Hero image -->
     <td width="40%" valign="top" style="text-align:center; padding-left:20px">
-      <!-- Replace image with a hero you want, or add multiple images -->
       <img src="./assets/hero-devdesk.png" alt="dev desk" style="max-width:100%; border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.5)" />
     </td>
   </tr>
@@ -74,20 +72,19 @@
 
 <hr />
 
-<!-- GitHub Readme Stats (replace USERNAME) -->
 <div align="center">
   <p>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amogh-gadad&show_icons=true&theme=dark&hide_border=true" />
     &nbsp;
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-gadad&layout=compact&theme=dark&hide_border=true" />
   </p>
 
   <p>
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-gadad&theme=dark&hide_border=true" />
   </p>
 
   <p>
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark&row=1&margin-w=15" />
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=amogh-gadad&theme=dark&row=1&margin-w=15" />
   </p>
 </div>
 
@@ -104,7 +101,6 @@
   </a>
 </div>
 
-<!-- Optional: small footer -->
 <p align="center" style="font-size:0.9rem;color:#9aa7bb;margin-top:18px">
   Built with ❤️ — open to collaborate on Embedded Linux, Edge AI & Automotive projects.
 </p>
