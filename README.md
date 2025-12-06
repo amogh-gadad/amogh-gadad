@@ -63,6 +63,12 @@
     🧰 Projects
   </h2> 
   <ol style="text-align:left; display:inline-block; padding-left:20px; font-size:1.05rem;">
+    <li>
+      <strong>Quake-Guard — Earthquake Early Warning Node</strong><br/>
+      A Raspberry Pi Pico–based early warning system using accelerometer sensing, wavelet-based P/S wave detection,
+      and a complete alert chain (LCD → buzzer cancel window → SMS with GPS → emergency auto-dial).
+    </li>
+
   <li>
     <strong>Self-Driving Car (Raspberry Pi)</strong> — Lane detection + YOLO object detection + ultrasonic avoidance.
   </li> 
