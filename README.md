@@ -91,27 +91,31 @@
 <hr/>
 
 <!-- 📊 GitHub Stats + Streak SIDE-BY-SIDE -->
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
+<table align="center">
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/amogh-gadad?cardType=github&theme=dark&preferLogin=true"
+          alt="GitHub Stats"
+          width="380"
+        />
+      </a>
+    </td>
 
-  <!-- GitHub Stats -->
-  <a href="https://git.io/awesome-stats-card">
-    <img 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/amogh-gadad?cardType=github&theme=dark&preferLogin=true"
-      alt="GitHub Stats"
-      width="380"
-    />
-  </a>
-
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="http://github-readme-streak-stats.herokuapp.com?user=amogh-gadad&theme=dark&background=000000"
-      alt="GitHub Streak"
-      width="380"
-    />
-  </a>
-
-</div>
+    <!-- Streak (NOTE: HTTPS, not HTTP) -->
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=amogh-gadad&theme=dark&background=000000"
+          alt="GitHub Streak"
+          width="380"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 <!-- SOCIAL ICONS --> 
